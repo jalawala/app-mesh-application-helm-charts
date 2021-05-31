@@ -2,4 +2,4 @@ apiVersion: v1
 appVersion: "1.0"
 description: Put your application description here
 name: change-this-chart-name
-version: 0.1.0
+version: 0.1.1
